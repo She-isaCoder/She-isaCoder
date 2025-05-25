@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @She-isaCoder
-- 👀 I’m interested in ...becoming a Data Analyst
-- 🌱 I’m currently learning ...SQL and PowerBi
+- 👋 Hi, I’m Preetika Shetty
+- 👀 I’m interested in ...becoming a AI/ML Engineer
+- 🌱 I’m currently learning ... Data analysis using Python and Machine learning concepts
 - 💞️ I’m looking for an accountability partner while self-learning the above courses
 - 📫 How to reach me ...Email me at preetika194@gmail.com
 - 😄 Pronouns: ...She/Her
